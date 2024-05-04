@@ -11,7 +11,7 @@
 Proyecto de prueba para explicar cuáles son los pasos que se deben seguir para la creación de una librería en Python usando como herramienta PYPI para almacenar los metadatos y distribuirlos.
 
 ### **Pasos a seguir**
-Link para leer el artículo en Medium: <a href="#">¿Cómo crear una librería en Python?</a>
+Link para leer el artículo en Medium: <a href="https://medium.com/@sebasurdanegui/desarrolla-tu-conjunto-de-herramientas-creaci%C3%B3n-de-biblioteca-en-python-05d717da147f">¿Cómo crear una librería en Python?</a>
 
 ### **Instalación**
 Puedes instalar la librería 'linear_regression_model' usando pip.
